@@ -1,0 +1,12 @@
+.venv311/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/chroma_db/
+data/sqlite/
+data/outputs/
+data/documents/*
+data/excel/*
+!data/documents/.gitkeep
+!data/excel/.gitkeep

@@ -1,0 +1,62 @@
+[
+  {
+    "source": "AgentSurvey.pdf",
+    "question": "How does the AgentAI survey describe AgentAI, and what capabilities does it say AgentAI can improve?",
+    "ground_truth": "AgentAI is an approach within distributed AI in which autonomous agents work individually or collaboratively in decentralized environments to solve challenging problems. The survey says it can enhance scalability, robustness, and flexibility through communication, learning, and decision-making capabilities."
+  },
+  {
+    "source": "AgentSurvey.pdf",
+    "question": "What is distinctive about the multi-domain taxonomy and autonomy analysis in the AgentAI survey?",
+    "ground_truth": "The survey presents a cross-domain taxonomy covering AgentAI research across nine sectors and analyzes both non-autonomous and fully autonomous AgentAI systems within a unified framework."
+  },
+  {
+    "source": "AgentSurvey.pdf",
+    "question": "How does the survey describe the progression of AgentAI from Industry 4.0 through Industries 5.0 and 6.0?",
+    "ground_truth": "It describes an evolution from automation in Industry 4.0 toward collaboration in Industry 5.0 and ultimately fully autonomous systems in Industry 6.0."
+  },
+  {
+    "source": "AgentSurvey.pdf",
+    "question": "Which open challenges and future directions does the AgentAI survey identify?",
+    "ground_truth": "The survey identifies real-time adaptability, context awareness, and agent autonomy as open challenges. It points toward human-centric systems in Industry 5.0 and fully autonomous cognitive frameworks in Industry 6.0."
+  },
+  {
+    "source": "Glob Bus Org Exc - 2025 - Dwivedi - Agentic AI Systems  What It Is and Isn t.pdf",
+    "question": "How does the article distinguish traditional AI agents, generative AI, and agentic AI systems?",
+    "ground_truth": "Traditional AI agents operate within strict human-defined parameters on a few specific tasks. Generative AI creates content but is fundamentally reactive and lacks persistent goals or adaptation to environmental feedback. Agentic AI systems autonomously pursue complex goals using a closed-loop architecture with planning, memory, tools, and environmental input."
+  },
+  {
+    "source": "Glob Bus Org Exc - 2025 - Dwivedi - Agentic AI Systems  What It Is and Isn t.pdf",
+    "question": "Which capabilities does the article identify as enabling agentic AI to complete complex goals?",
+    "ground_truth": "The article identifies planning, shared or dynamic memory, tool use, and multi-agent teamwork. It also describes continuous environmental input that allows systems to adapt toward challenging objectives."
+  },
+  {
+    "source": "Glob Bus Org Exc - 2025 - Dwivedi - Agentic AI Systems  What It Is and Isn t.pdf",
+    "question": "What major risks and responsible-adoption safeguards does the agentic AI article highlight?",
+    "ground_truth": "It highlights cascading errors, goal misalignment, and regulatory gaps. It emphasizes transparency, accountability, and human oversight for responsible adoption."
+  },
+  {
+    "source": "Glob Bus Org Exc - 2025 - Dwivedi - Agentic AI Systems  What It Is and Isn t.pdf",
+    "question": "According to the article, which characteristics affect the level of risk from an agentic system?",
+    "ground_truth": "Risk is linked to how independently the system can make decisions, how independently it can act, and the limitations on what it can do and how its activities are defined."
+  },
+  {
+    "source": "cyber_risk_management_presentation (1) (1).pptx",
+    "question": "Which cyber threats are listed in the presentation?",
+    "ground_truth": "The listed threats are phishing attacks, malware and ransomware, data breaches, insider threats, and distributed denial-of-service (DDoS) attacks."
+  },
+  {
+    "source": "cyber_risk_management_presentation (1) (1).pptx",
+    "question": "What is the presentation's priority order for the five cyber risks?",
+    "ground_truth": "The order is data breach, ransomware attack, phishing attacks, DDoS attacks, and insider threats."
+  },
+  {
+    "source": "cyber_risk_management_presentation (1) (1).pptx",
+    "question": "Which risk mitigation strategies does the presentation recommend?",
+    "ground_truth": "The presentation recommends employee cybersecurity training, multi-factor authentication, antivirus and endpoint security, data encryption and access control, and regular backups."
+  },
+  {
+    "source": "cyber_risk_management_presentation (1) (1).pptx",
+    "question": "What are the steps in the presentation's incident response plan?",
+    "ground_truth": "The steps are detection, containment, eradication, recovery, and review and improvement."
+  }
+]
